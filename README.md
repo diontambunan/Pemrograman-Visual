@@ -1,2 +1,2 @@
 # Pemrograman-Visual
-Tugas mata kuliah pemrograman visual
+Tugas mata kuliah pemrograman visual.
